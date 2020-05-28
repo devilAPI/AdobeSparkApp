@@ -1,0 +1,16 @@
+{
+    "app_name": "Adobe Spark",
+    "main": "index.html",
+    "name": "adobespark",
+    "webkit": {
+        "plugin": false
+    },
+    "window": {
+        "exe_icon": "spark.png",
+        "icon": "spark.png",
+        "id": "SparkInstaller",
+        "position": "mouse",
+        "resizable": true,
+        "title": "Adobe Spark"
+    }
+}
